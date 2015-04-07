@@ -1,4 +1,4 @@
-# Cache::Simple
+# Cache::Tiny
 
 ### Super simple disk based cached using *only* core Perl modules
 
