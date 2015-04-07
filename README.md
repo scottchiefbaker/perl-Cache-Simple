@@ -18,5 +18,5 @@ $ok = cache("name", "scott", time() + 60);
 $name = cache("name");
 
 # Delete an item from the cache
-$ok = cache("name",undef);
+$ok = cache("name", undef);
 ```
