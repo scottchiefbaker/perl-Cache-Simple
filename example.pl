@@ -3,7 +3,7 @@
 ######################################################################
 # Scott Baker - 2015-04-07
 #
-# Similar concept to memcache: get/set/delete. For a more full
+# Similar concept to memcached: get/set/delete. For a more full
 # featured Perl cache module, look at Cache::Cache. This was designed
 # to be a single function, which be copy/pasted in to existing code
 ######################################################################
